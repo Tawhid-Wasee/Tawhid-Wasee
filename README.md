@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Tawhidul Hoque</h1>
 <h3 align="center">A video game enthusiast and developer</h3>
 
-- 🔭 I’m currently working on [Project Ouroboros](https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros)
-- 🎮 Play the game here → [itch.io page](https://ballsy-brit.itch.io/ouroboros)
-- 💾 Download and play the game → [Playable PC Version](https://github.com/Ballsy-Brit/Ouroboros-PlayablePCVersion)
-- 🌱 I’m currently learning **Unity 6, Unreal 5**
+- 🔭 I’m currently working on [Project Ouroboros](https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros)  
+- 🎮 Play the game here → [itch.io page](https://ballsy-brit.itch.io/ouroboros)  
+- 💾 Download and play the game → [Playable PC Version](https://github.com/Ballsy-Brit/Ouroboros-PlayablePCVersion)  
+- 🌱 I’m currently learning **Unity 6, Unreal 5**  
+- 🎯 I’m currently an **Intern Game & Level Designer at Agni Game Studios**  
 - 📫 How to reach me **tawhidwasee2023@gmail.com**
 
 ---
@@ -26,7 +27,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- icons container: left-aligned, wraps to multiple rows -->
 <div style="max-width:1000px;">
   <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center; justify-content:flex-start;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
@@ -54,12 +54,9 @@
   </div>
 </div>
 
-<!-- ===== Centered GIF (symmetrical & medium-sized) ===== -->
 <div align="center" style="margin-top:18px; margin-bottom:18px;">
-  <!-- Replace this src with your GIF link if needed -->
   <img src="https://github.com/user-attachments/assets/047cf750-9376-4a43-8f43-bd86f7edac6b" alt="Showcase GIF" style="width:360px; max-width:90%; height:auto; border-radius:8px;" />
 </div>
-<!-- ===== End GIF Section ===== -->
 
 ---
 
