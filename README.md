@@ -61,9 +61,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ballsy-brit&show_icons=true&locale=en&layout=compact" alt="ballsy-brit" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tawhid-wasee&show_icons=true&locale=en&layout=compact" alt="tawhid-wasee" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ballsy-brit&" alt="ballsy-brit" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid-wasee&" alt="tawhid-wasee" />
 </p>
