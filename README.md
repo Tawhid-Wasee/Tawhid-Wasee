@@ -2,7 +2,7 @@
 <h3 align="center">A video game enthusiast and developer</h3>
 
 - 🔭 I’m currently working on [Project Ouroboros](https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros)  
-- 🎮 Play the game here → [itch.io page](https://ballsy-brit.itch.io/ouroboros)  
+- 🎮 Play the game here → [itch.io page](https://ballsy-brit.itch.io/ouroboros-game)  
 - 💾 Download and play the game → [Playable PC Version](https://github.com/Ballsy-Brit/Ouroboros-PlayablePCVersion)  
 - 🌱 I’m currently learning **Unity 6, Unreal 5**  
 - 🎯 I’m currently an **Intern Game & Level Designer at Agni Game Studios**  
