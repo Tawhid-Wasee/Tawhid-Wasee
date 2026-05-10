@@ -1,7 +1,7 @@
 <h1 align="center">Md. Tawhidul Hoque</h1>
 
 <h3 align="center">
-Game Developer • Level Designer • Interactive Systems Enthusiast
+Game Developer • Level Designer • Game Designer
 </h3>
 
 <p align="center">
