@@ -18,7 +18,7 @@ Currently working as a **Game & Level Designer at Agni Studios**, where I contri
 
 I also developed the official studio website myself.
 
-- 🏢 Studio: [Agni Studios](YOUR_STUDIO_LINK_HERE)
+- 🏢 Studio: [Agni Studios](studio.agni.com)
 - 🌌 Current Project: [Project Ouroboros](https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros)
 - 🎮 Play Online: [itch.io Release](https://ballsy-brit.itch.io/ouroboros-game)
 - 💾 PC Build: [Playable Windows Version](https://github.com/Ballsy-Brit/Ouroboros-PlayablePCVersion)
@@ -42,7 +42,7 @@ I also developed the official studio website myself.
 ## 🎥 Game Development Showcase
 
 <p align="center">
-  <a href="YOUR_YOUTUBE_VIDEO_OR_CHANNEL_LINK">
+  <a href="https://www.youtube.com/@Mr-Ballsy-Brit">
     <img 
       src="https://img.shields.io/badge/Watch-Gameplay_Showcase-red?style=for-the-badge&logo=youtube&logoColor=white" 
       alt="YouTube Showcase"
@@ -53,9 +53,9 @@ I also developed the official studio website myself.
 <!-- OPTIONAL YOUTUBE EMBED THUMBNAIL -->
 
 <p align="center">
-  <a href="YOUR_VIDEO_LINK">
+  <a href="https://www.youtube.com/watch?v=CNe7auWREJg&list=PLxhPj5APQwK2ZCfQpdn5zuvG6CC72FgKU">
     <img 
-      src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" 
+      src="https://img.youtube.com/vi/CNe7auWREJg/maxresdefault.jpg" 
       width="720"
       alt="Gameplay Showcase"
     />
