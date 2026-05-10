@@ -42,7 +42,7 @@ I also developed the official studio website myself.
 ## 🎥 Game Development Showcase
 
 <p align="center">
-  <a href="YOUR_YOUTUBE_VIDEO_OR_CHANNEL_LINK">
+  <a href="https://youtu.be/CNe7auWREJg">
     <img 
       src="https://img.shields.io/badge/Watch-Gameplay_Showcase-red?style=for-the-badge&logo=youtube&logoColor=white" 
       alt="YouTube Showcase"
