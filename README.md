@@ -19,7 +19,7 @@ Currently working as a **Game & Level Designer at Agni Studios**, where I contri
 I also developed the official studio website myself.
 
 - 🏢 Studio: [Agni Studios](https://studio.agni.com)
-- 🌌 Current Project: [Project Ouroboros](https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros)
+- 🌌 Current Personal Project: [Project Ouroboros](https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros)
 - 🎮 Play Online: [itch.io Release](https://ballsy-brit.itch.io/ouroboros-game)
 - 💾 PC Build: [Playable Windows Version](https://github.com/Ballsy-Brit/Ouroboros-PlayablePCVersion)
 - 🌱 Currently Learning: **Unity 6, Unreal Engine 5, Procedural Workflows**
