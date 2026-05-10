@@ -44,7 +44,7 @@ I also developed the official studio website myself.
 <p align="center">
   <a href="https://youtu.be/CNe7auWREJg">
     <img 
-      src="https://img.shields.io/badge/Watch-Gameplay_Showcase-red?style=for-the-badge&logo=youtube&logoColor=white" 
+      src="<img width="1401" height="777" alt="image" src="https://github.com/user-attachments/assets/4ba1e283-d359-476a-979e-585690c1b9f0" />" 
       alt="YouTube Showcase"
     />
   </a>
