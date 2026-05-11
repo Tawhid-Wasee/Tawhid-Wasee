@@ -62,9 +62,9 @@ I also developed the official studio website myself.
   </a>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=B55mBxjv1_w">
+  <a href="https://youtu.be/TKDc0czBzjk">
     <img 
-      src="https://img.youtube.com/vi/B55mBxjv1_w/maxresdefault.jpg" 
+      src="https://img.youtube.com/vi/TKDc0czBzjk/maxresdefault.jpg" 
       width="720"
       alt="Devlog"
     />
