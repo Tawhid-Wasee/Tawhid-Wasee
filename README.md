@@ -61,6 +61,15 @@ I also developed the official studio website myself.
     />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=B55mBxjv1_w">
+    <img 
+      src="https://img.youtube.com/vi/B55mBxjv1_w/maxresdefault.jpg" 
+      width="720"
+      alt="Devlog"
+    />
+  </a>
+</p>
 
 <p align="center">
   Future devlogs, gameplay prototypes, level breakdowns, and experimental systems showcase will be uploaded here.
