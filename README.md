@@ -1,74 +1,113 @@
-<!-- ===== BOOT SCREEN ===== -->
+<!-- ============================================================ -->
+<!--                    AGNI_OS // BOOT SCREEN                     -->
+<!-- ============================================================ -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1A1A&height=4" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2600&pause=1500&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=110&lines=MD.+TAWHIDUL+HOQUE;GAME+DEVELOPER" alt="Md. Tawhidul Hoque" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2600&pause=1500&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=110&lines=MD.+TAWHIDUL+HOQUE;GAME+DEVELOPER" alt="Md. Tawhidul Hoque - Game Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2200&pause=300&color=FF1A1A&background=0D0D0D&center=false&vCenter=true&width=760&height=190&repeat=false&multiline=true&lines=%3E+BOOTING+AGNI_OS+v1.0+...+OK;%3E+LOADING+SYSTEMS_ENGINEERING+...+OK;%3E+LOADING+GAMEPLAY_DESIGN+...+OK;%3E+LOADING+LEVEL_DESIGN+...+OK;%3E+LOADING+ENEMY_AI+...+OK;%3E+PROJECT_OUROBOROS+...+IN+PROGRESS+%E2%96%88" alt="Boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2200&pause=300&color=FF1A1A&background=0D0D0D&center=false&vCenter=true&width=760&height=240&repeat=false&multiline=true&lines=%3E+BOOTING+AGNI_OS+v1.0+...+OK;%3E+LOADING+SYSTEMS_ENGINEERING+...+OK;%3E+LOADING+GAMEPLAY_DESIGN+...+OK;%3E+LOADING+LEVEL_DESIGN+...+OK;%3E+LOADING+ENEMY_AI+...+OK;%3E+LOADING+TECH_ART+SHADERS_VFX+...+OK;%3E+LOADING+SUBSTANCE_TEXTURING+...+OK;%3E+PROJECT_OUROBOROS+...+IN+PROGRESS" alt="AGNI OS Boot Sequence" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1A1A&height=4" />
 
 <br>
 
-<a href="https://studio.agni.com" target="_blank">
+<a href="https://studio.agni.com">
   <img src="https://img.shields.io/badge/-PORTFOLIO%20%2F%20STUDIO%20AGNI-FF1A1A?style=for-the-badge&logo=googlechrome&logoColor=0D0D0D" />
 </a>
-<a href="https://ballsy-brit.itch.io/ouroboros-game" target="_blank">
+<a href="https://ballsy-brit.itch.io/ouroboros-game">
   <img src="https://img.shields.io/badge/-PLAY%20OUROBOROS-FF1A1A?style=for-the-badge&logo=itchdotio&logoColor=0D0D0D" />
 </a>
-<a href="https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros" target="_blank">
+<a href="https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros">
   <img src="https://img.shields.io/badge/-PROJECT%20REPO-FF1A1A?style=for-the-badge&logo=github&logoColor=0D0D0D" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEMS%20ENGINEERING-0D0D0D?style=flat-square&labelColor=0D0D0D&color=0D0D0D&logoColor=FF1A1A" />
+<img src="https://img.shields.io/badge/SYSTEMS%20ENGINEERING-0D0D0D?style=flat-square&labelColor=0D0D0D" />
 <img src="https://img.shields.io/badge/GAMEPLAY%20DESIGN-0D0D0D?style=flat-square" />
 <img src="https://img.shields.io/badge/LEVEL%20DESIGN-0D0D0D?style=flat-square" />
 <img src="https://img.shields.io/badge/GAME%20AI-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/TECH%20ART-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/SHADERS%20%26%20VFX-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/SUBSTANCE%20TEXTURING-0D0D0D?style=flat-square" />
 
 </div>
 
 <br>
 
-<!-- ===== 01 PLAYER PROFILE ===== -->
+<!-- ============================================================ -->
+<!--                    01 // PLAYER PROFILE                       -->
+<!-- ============================================================ -->
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+01+%5D+PLAYER_PROFILE+%E2%96%88" alt="Player Profile" />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+01+%5D+PLAYER_PROFILE" alt="Player Profile" />
+
 </div>
 
 ```text
-┌──────────────────────────────────────────────┐
-│  PLAYER   : Md. Tawhidul Hoque               │
-│  CLASS    : Game Developer                   │
-│  GUILD    : Agni Game Studio                 │
-│  SPECS    : Systems · AI · Level Design      │
-│  QUEST    : Project Ouroboros                │
-│  GENRE    : Psychological Horror             │
-│  LEARNING : Unity 6 · Unreal Engine 5        │
-└──────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│  PLAYER   : Md. Tawhidul Hoque                         │
+│  CLASS    : Professional Game Developer                │
+│  GUILD    : Agni Game Studio                           │
+│  ACTIVE   : Since October 2025                         │
+│                                                        │
+│  SPECS    : Gameplay Systems · AI · Level Design       │
+│             Technical Art · Shaders · VFX              │
+│             Substance Texturing                        │
+│                                                        │
+│  QUEST    : Project Ouroboros                          │
+│  GENRE    : Psychological Horror                       │
+│  STATUS   : ACTIVE                                     │
+│                                                        │
+└────────────────────────────────────────────────────────┘
 ```
 
 ```text
 C:\AGNI> type about.txt
 
-Currently building Project Ouroboros — a psychological horror game
-with modular gameplay systems and reactive AI. I specialize in
-systems engineering, gameplay design, level design, and enemy AI,
-and I'm expanding into Unity 6 and Unreal Engine 5.
+Professional Game Developer at Agni Game Studio since October 2025.
+
+Currently building Project Ouroboros, a psychological horror game
+featuring modular gameplay systems, reactive enemy AI, and
+immersive environments.
+
+My work spans gameplay systems engineering, gameplay design,
+level design, enemy AI, and technical art.
+
+I also work with shader development, visual effects,
+environment art, and procedural/PBR texturing using
+Adobe Substance Designer and Substance Painter.
+
+I enjoy building systems that make game worlds feel
+reactive, atmospheric, and alive.
 ```
 
 <div align="center">
+
 <a href="mailto:tawhidwasee2023@gmail.com">
   <img src="https://img.shields.io/badge/-tawhidwasee2023%40gmail.com-FF1A1A?style=for-the-badge&logo=gmail&logoColor=0D0D0D" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PROFESSIONAL%20GAME%20DEV-SINCE%20OCT%202025-FF1A1A?style=for-the-badge&labelColor=0D0D0D" />
+
 </div>
 
 <br>
 
-<!-- ===== 02 SHOWCASE ===== -->
+<!-- ============================================================ -->
+<!--                     02 // SHOWCASE REEL                       -->
+<!-- ============================================================ -->
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+02+%5D+SHOWCASE_REEL+%E2%96%88" alt="Showcase" />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+02+%5D+SHOWCASE_REEL" alt="Showcase Reel" />
 
 <br><br>
 
@@ -80,43 +119,53 @@ and I'm expanding into Unity 6 and Unreal Engine 5.
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
   <a href="https://youtu.be/CNe7auWREJg">
-    <img src="https://img.youtube.com/vi/CNe7auWREJg/hqdefault.jpg" width="180"/>
+    <img src="https://img.youtube.com/vi/CNe7auWREJg/hqdefault.jpg" width="180" alt="Enemy AI Showcase"/>
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/-ENEMY%20AI-FF1A1A?style=flat-square&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-ENEMY%20AI-FF1A1A?style=flat-square" />
 </td>
+
 <td align="center" width="25%">
   <a href="https://youtu.be/TKDc0czBzjk">
-    <img src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg" width="180"/>
+    <img src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg" width="180" alt="Room Variant Controller"/>
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/-ROOM%20VARIANT%20CONTROLLER-FF1A1A?style=flat-square" />
 </td>
+
 <td align="center" width="25%">
   <a href="https://www.youtube.com/watch?v=IK6MtoZt9go">
-    <img src="https://img.youtube.com/vi/IK6MtoZt9go/hqdefault.jpg" width="180"/>
+    <img src="https://img.youtube.com/vi/IK6MtoZt9go/hqdefault.jpg" width="180" alt="Look Trigger System"/>
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/-LOOK%20TRIGGER%20SYSTEM-FF1A1A?style=flat-square" />
 </td>
+
 <td align="center" width="25%">
   <a href="https://www.youtube.com/watch?v=1xmeOEdt6fU">
-    <img src="https://img.youtube.com/vi/1xmeOEdt6fU/hqdefault.jpg" width="180"/>
+    <img src="https://img.youtube.com/vi/1xmeOEdt6fU/hqdefault.jpg" width="180" alt="Reactive Water Shader"/>
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/-REACTIVE%20WATER%20SHADER-FF1A1A?style=flat-square" />
 </td>
+
 </tr>
 </table>
+
+<br>
 
 <details>
 <summary><b>[ + ] LOAD MORE DEVLOGS &amp; PROTOTYPES</b></summary>
 
 <br>
 
-More devlogs, AI systems, gameplay prototypes, and level breakdowns get added here as they're finished — check the [YouTube channel](https://www.youtube.com/@Mr-Ballsy-Brit) for the full archive.
+More devlogs, AI systems, gameplay prototypes, technical art breakdowns,
+shader experiments, and level design showcases are added as they are completed.
+
+Check the [YouTube channel](https://www.youtube.com/@Mr-Ballsy-Brit) for the full archive.
 
 </details>
 
@@ -124,14 +173,22 @@ More devlogs, AI systems, gameplay prototypes, and level breakdowns get added he
 
 <br>
 
-<!-- ===== 03 INVENTORY ===== -->
+<!-- ============================================================ -->
+<!--                   03 // INVENTORY / TECH STACK                -->
+<!-- ============================================================ -->
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+03+%5D+INVENTORY_%2F_TECH_STACK+%E2%96%88" alt="Tech Stack" />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+03+%5D+INVENTORY_%2F_TECH_STACK" alt="Tech Stack" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CGAME_DEV%3E+DIR" alt="Game Dev" />
+<!-- GAME DEVELOPMENT -->
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CGAME_DEV%3E+DIR" alt="Game Development" />
+
 <br>
+
 <img src="https://img.shields.io/badge/-Unity-FF1A1A?style=flat-square&logo=unity&logoColor=0D0D0D" />
 <img src="https://img.shields.io/badge/-Unreal%20Engine-FF1A1A?style=flat-square&logo=unrealengine&logoColor=0D0D0D" />
 <img src="https://img.shields.io/badge/-Blender-FF1A1A?style=flat-square&logo=blender&logoColor=0D0D0D" />
@@ -140,8 +197,27 @@ More devlogs, AI systems, gameplay prototypes, and level breakdowns get added he
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CWEB_BACKEND%3E+DIR" alt="Web" />
+<!-- TECHNICAL ART -->
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CTECHNICAL_ART%3E+DIR" alt="Technical Art" />
+
 <br>
+
+<img src="https://img.shields.io/badge/-Substance%203D%20Designer-FF1A1A?style=flat-square&logo=adobe&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Substance%203D%20Painter-FF1A1A?style=flat-square&logo=adobe&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Shader%20Development-FF1A1A?style=flat-square&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-VFX-FF1A1A?style=flat-square&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-PBR%20Texturing-FF1A1A?style=flat-square" />
+<img src="https://img.shields.io/badge/-Environment%20Art-FF1A1A?style=flat-square" />
+
+<br><br>
+
+<!-- WEB DEVELOPMENT -->
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CWEB_BACKEND%3E+DIR" alt="Web Development" />
+
+<br>
+
 <img src="https://img.shields.io/badge/-JavaScript-FF1A1A?style=flat-square&logo=javascript&logoColor=0D0D0D" />
 <img src="https://img.shields.io/badge/-TypeScript-FF1A1A?style=flat-square&logo=typescript&logoColor=0D0D0D" />
 <img src="https://img.shields.io/badge/-React-FF1A1A?style=flat-square&logo=react&logoColor=0D0D0D" />
@@ -154,8 +230,12 @@ More devlogs, AI systems, gameplay prototypes, and level breakdowns get added he
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CDATA_TOOLS%3E+DIR" alt="Data" />
+<!-- DATA & TOOLS -->
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CDATA_TOOLS%3E+DIR" alt="Data and Tools" />
+
 <br>
+
 <img src="https://img.shields.io/badge/-MongoDB-FF1A1A?style=flat-square&logo=mongodb&logoColor=0D0D0D" />
 <img src="https://img.shields.io/badge/-MySQL-FF1A1A?style=flat-square&logo=mysql&logoColor=0D0D0D" />
 <img src="https://img.shields.io/badge/-PostgreSQL-FF1A1A?style=flat-square&logo=postgresql&logoColor=0D0D0D" />
@@ -168,9 +248,13 @@ More devlogs, AI systems, gameplay prototypes, and level breakdowns get added he
 
 <br>
 
-<!-- ===== 04 PLAYER STATS ===== -->
+<!-- ============================================================ -->
+<!--                       04 // PLAYER STATS                      -->
+<!-- ============================================================ -->
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+04+%5D+PLAYER_STATS+%E2%96%88" alt="Player Stats" />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+04+%5D+PLAYER_STATS" alt="Player Stats" />
 
 <br><br>
 
@@ -188,32 +272,40 @@ More devlogs, AI systems, gameplay prototypes, and level breakdowns get added he
 
 <br>
 
-<!-- ===== 05 CONNECT ===== -->
+<!-- ============================================================ -->
+<!--                        05 // CONNECT                          -->
+<!-- ============================================================ -->
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+05+%5D+JOIN_MY_PARTY+%E2%96%88" alt="Connect" />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+05+%5D+JOIN_MY_PARTY" alt="Connect" />
 
 <br><br>
 
-<a href="https://youtube.com/@ballsybrit?si=LxtKBfCM-CG8djGY" target="_blank">
+<a href="https://youtube.com/@ballsybrit?si=LxtKBfCM-CG8djGY">
   <img src="https://img.shields.io/badge/-YOUTUBE-FF1A1A?style=for-the-badge&logo=youtube&logoColor=0D0D0D" />
 </a>
-<a href="https://www.linkedin.com/in/md-tawhidul-hoque-8787b5201" target="_blank">
-  <img src="https://img.shields.io/badge/-LINKEDIN-FF1A1A?style=for-the-badge" />
+
+<a href="https://www.linkedin.com/in/md-tawhidul-hoque-8787b5201">
+  <img src="https://img.shields.io/badge/-LINKEDIN-FF1A1A?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" />
 </a>
-<a href="https://ballsy-brit.itch.io/" target="_blank">
+
+<a href="https://ballsy-brit.itch.io/">
   <img src="https://img.shields.io/badge/-ITCH.IO-FF1A1A?style=for-the-badge&logo=itchdotio&logoColor=0D0D0D" />
 </a>
-<a href="https://discord.com/users/744272463847751743" target="_blank">
+
+<a href="https://discord.com/users/744272463847751743">
   <img src="https://img.shields.io/badge/-DISCORD%3A%20ballsybrit-FF1A1A?style=for-the-badge&logo=discord&logoColor=0D0D0D" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=4000&pause=1500&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=60&lines=%22One+more+bug+fix%22+usually+means;three+additional+hours+of+suffering." alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=4000&pause=1500&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=60&lines=%22One+more+bug+fix%22+usually+means;three+additional+hours+of+suffering." alt="Developer Quote" />
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=90&text=INSERT%20COIN%20TO%20CONTINUE&fontColor=FF1A1A&fontSize=26&animation=blinking" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1A1A&height=4" />
 
 </div>
