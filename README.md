@@ -1,82 +1,79 @@
-<!-- ===== ANIMATED HEADER ===== -->
+<!-- ===== BOOT SCREEN ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0f1a,35:6d28d9,70:e11d48,100:0b0f1a&text=Md.%20Tawhidul%20Hoque&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=twinkling&desc=%E2%97%86%20GAME%20DEVELOPER%20%E2%97%86%20AGNI%20GAME%20STUDIO%20%E2%97%86&descSize=16&descAlignY=60&stroke=e11d48&strokeWidth=1" alt="Md. Tawhidul Hoque" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1A1A&height=4" />
 
-<a href="https://github.com/Ballsy-Brit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=E11D48&center=true&vCenter=true&width=700&height=50&lines=%3E+Systems+Engineering;%3E+Gameplay+Design;%3E+Level+Design;%3E+Reactive+Enemy+AI;%3E+Now+building%3A+Project+Ouroboros+%F0%9F%90%8D" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2600&pause=1500&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=110&lines=MD.+TAWHIDUL+HOQUE;GAME+DEVELOPER" alt="Md. Tawhidul Hoque" />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2200&pause=300&color=FF1A1A&background=0D0D0D&center=false&vCenter=true&width=760&height=190&repeat=false&multiline=true&lines=%3E+BOOTING+AGNI_OS+v1.0+...+OK;%3E+LOADING+SYSTEMS_ENGINEERING+...+OK;%3E+LOADING+GAMEPLAY_DESIGN+...+OK;%3E+LOADING+LEVEL_DESIGN+...+OK;%3E+LOADING+ENEMY_AI+...+OK;%3E+PROJECT_OUROBOROS+...+IN+PROGRESS+%E2%96%88" alt="Boot sequence" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1A1A&height=4" />
 
 <br>
 
 <a href="https://studio.agni.com" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-STUDIO%20AGNI-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6d28d9" />
+  <img src="https://img.shields.io/badge/-PORTFOLIO%20%2F%20STUDIO%20AGNI-FF1A1A?style=for-the-badge&logo=googlechrome&logoColor=0D0D0D" />
 </a>
 <a href="https://ballsy-brit.itch.io/ouroboros-game" target="_blank">
-  <img src="https://img.shields.io/badge/PLAY-OUROBOROS-e11d48?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/-PLAY%20OUROBOROS-FF1A1A?style=for-the-badge&logo=itchdotio&logoColor=0D0D0D" />
 </a>
 <a href="https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros" target="_blank">
-  <img src="https://img.shields.io/badge/PROJECT%20REPO-GITHUB-1d4ed8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/-PROJECT%20REPO-FF1A1A?style=for-the-badge&logo=github&logoColor=0D0D0D" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Systems%20Engineering-6d28d9?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Gameplay%20Design-0891b2?style=flat-square&logo=gamedeveloper&logoColor=white" />
-<img src="https://img.shields.io/badge/Level%20Design-16a34a?style=flat-square&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Game%20AI-ea580c?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/SYSTEMS%20ENGINEERING-0D0D0D?style=flat-square&labelColor=0D0D0D&color=0D0D0D&logoColor=FF1A1A" />
+<img src="https://img.shields.io/badge/GAMEPLAY%20DESIGN-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/LEVEL%20DESIGN-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/GAME%20AI-0D0D0D?style=flat-square" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6d28d9,50:e11d48,100:0891b2" />
+<br>
 
-<!-- ===== ABOUT / PLAYER CARD ===== -->
-<h2 align="center">⚔️ &nbsp;PLAYER PROFILE&nbsp; ⚔️</h2>
-
+<!-- ===== 01 PLAYER PROFILE ===== -->
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+01+%5D+PLAYER_PROFILE+%E2%96%88" alt="Player Profile" />
+</div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```yaml
-╔══════════════════════════════════════╗
-║  PLAYER   : Md. Tawhidul Hoque       ║
-║  CLASS    : Game Developer           ║
-║  GUILD    : Agni Game Studio         ║
-║  SPECS    : Systems · AI · Level     ║
-║  QUEST    : Project Ouroboros        ║
-║  GENRE    : Psychological Horror     ║
-║  LEARNING : Unity 6 · Unreal Eng. 5  ║
-╚══════════════════════════════════════╝
+```text
+┌──────────────────────────────────────────────┐
+│  PLAYER   : Md. Tawhidul Hoque               │
+│  CLASS    : Game Developer                   │
+│  GUILD    : Agni Game Studio                 │
+│  SPECS    : Systems · AI · Level Design      │
+│  QUEST    : Project Ouroboros                │
+│  GENRE    : Psychological Horror             │
+│  LEARNING : Unity 6 · Unreal Engine 5        │
+└──────────────────────────────────────────────┘
 ```
 
-</td>
-<td width="45%" valign="top">
+```text
+C:\AGNI> type about.txt
 
-### 🐍 Current Quest
-
-Currently building **Project Ouroboros** — a **psychological horror** game with **modular gameplay systems** and **reactive AI**.
-
-I specialize in **systems engineering, gameplay design, level design, and enemy AI**, and I'm expanding into **Unity 6** and **Unreal Engine 5**.
-
-📫 **[tawhidwasee2023@gmail.com](mailto:tawhidwasee2023@gmail.com)** — feel free to reach out.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0891b2,50:e11d48,100:6d28d9" />
-
-<!-- ===== SHOWCASE ===== -->
-<h2 align="center">🎥 &nbsp;SHOWCASE REEL&nbsp; 🎥</h2>
+Currently building Project Ouroboros — a psychological horror game
+with modular gameplay systems and reactive AI. I specialize in
+systems engineering, gameplay design, level design, and enemy AI,
+and I'm expanding into Unity 6 and Unreal Engine 5.
+```
 
 <div align="center">
+<a href="mailto:tawhidwasee2023@gmail.com">
+  <img src="https://img.shields.io/badge/-tawhidwasee2023%40gmail.com-FF1A1A?style=for-the-badge&logo=gmail&logoColor=0D0D0D" />
+</a>
+</div>
+
+<br>
+
+<!-- ===== 02 SHOWCASE ===== -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+02+%5D+SHOWCASE_REEL+%E2%96%88" alt="Showcase" />
+
+<br><br>
 
 <a href="https://www.youtube.com/@Mr-Ballsy-Brit">
-  <img src="https://img.shields.io/badge/▶%20WATCH%20FULL%20SHOWCASE%20ON%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/-%E2%96%B6%20WATCH%20FULL%20SHOWCASE%20ON%20YOUTUBE-FF1A1A?style=for-the-badge&logo=youtube&logoColor=0D0D0D" />
 </a>
 
 <br><br>
@@ -88,36 +85,34 @@ I specialize in **systems engineering, gameplay design, level design, and enemy 
     <img src="https://img.youtube.com/vi/CNe7auWREJg/hqdefault.jpg" width="180"/>
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/🧠%20Enemy%20AI-e11d48?style=flat-square" />
+  <img src="https://img.shields.io/badge/-ENEMY%20AI-FF1A1A?style=flat-square&logoColor=0D0D0D" />
 </td>
 <td align="center" width="25%">
   <a href="https://youtu.be/TKDc0czBzjk">
     <img src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg" width="180"/>
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/🚪%20Room%20Variant%20Controller-6d28d9?style=flat-square" />
+  <img src="https://img.shields.io/badge/-ROOM%20VARIANT%20CONTROLLER-FF1A1A?style=flat-square" />
 </td>
 <td align="center" width="25%">
   <a href="https://www.youtube.com/watch?v=IK6MtoZt9go">
     <img src="https://img.youtube.com/vi/IK6MtoZt9go/hqdefault.jpg" width="180"/>
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/👁️%20Look%20Trigger%20System-0891b2?style=flat-square" />
+  <img src="https://img.shields.io/badge/-LOOK%20TRIGGER%20SYSTEM-FF1A1A?style=flat-square" />
 </td>
 <td align="center" width="25%">
   <a href="https://www.youtube.com/watch?v=1xmeOEdt6fU">
     <img src="https://img.youtube.com/vi/1xmeOEdt6fU/hqdefault.jpg" width="180"/>
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/🌊%20Reactive%20Water%20Shader-16a34a?style=flat-square" />
+  <img src="https://img.shields.io/badge/-REACTIVE%20WATER%20SHADER-FF1A1A?style=flat-square" />
 </td>
 </tr>
 </table>
 
 <details>
-<summary>
-  <b>🔓 UNLOCK MORE DEVLOGS & PROTOTYPES 🔓</b>
-</summary>
+<summary><b>[ + ] LOAD MORE DEVLOGS &amp; PROTOTYPES</b></summary>
 
 <br>
 
@@ -127,78 +122,98 @@ More devlogs, AI systems, gameplay prototypes, and level breakdowns get added he
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6d28d9,50:e11d48,100:0891b2" />
+<br>
 
-<!-- ===== TECH STACK ===== -->
-<h2 align="center">🛠️ &nbsp;INVENTORY / TECH STACK&nbsp; 🛠️</h2>
+<!-- ===== 03 INVENTORY ===== -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+03+%5D+INVENTORY_%2F_TECH_STACK+%E2%96%88" alt="Tech Stack" />
 
-<table align="center">
-<tr>
-<td align="center" valign="top" width="33%">
-
-**🎮 Game Development**
 <br><br>
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,cpp,cs&theme=dark" />
 
-</td>
-<td align="center" valign="top" width="33%">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CGAME_DEV%3E+DIR" alt="Game Dev" />
+<br>
+<img src="https://img.shields.io/badge/-Unity-FF1A1A?style=flat-square&logo=unity&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Unreal%20Engine-FF1A1A?style=flat-square&logo=unrealengine&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Blender-FF1A1A?style=flat-square&logo=blender&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-C++-FF1A1A?style=flat-square&logo=cplusplus&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-C%23-FF1A1A?style=flat-square&logo=csharp&logoColor=0D0D0D" />
 
-**🌐 Web & Backend**
 <br><br>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,php&theme=dark" />
 
-</td>
-<td align="center" valign="top" width="33%">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CWEB_BACKEND%3E+DIR" alt="Web" />
+<br>
+<img src="https://img.shields.io/badge/-JavaScript-FF1A1A?style=flat-square&logo=javascript&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-TypeScript-FF1A1A?style=flat-square&logo=typescript&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-React-FF1A1A?style=flat-square&logo=react&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Node.js-FF1A1A?style=flat-square&logo=nodedotjs&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Express-FF1A1A?style=flat-square&logo=express&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-HTML-FF1A1A?style=flat-square&logo=html5&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-CSS-FF1A1A?style=flat-square&logo=css3&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Tailwind-FF1A1A?style=flat-square&logo=tailwindcss&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-PHP-FF1A1A?style=flat-square&logo=php&logoColor=0D0D0D" />
 
-**💾 Data & Tools**
 <br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,linux,flutter,python,java&theme=dark" />
 
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=100&color=FF1A1A&center=true&vCenter=true&width=500&height=30&repeat=false&lines=C%3A%5CDATA_TOOLS%3E+DIR" alt="Data" />
+<br>
+<img src="https://img.shields.io/badge/-MongoDB-FF1A1A?style=flat-square&logo=mongodb&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-MySQL-FF1A1A?style=flat-square&logo=mysql&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-PostgreSQL-FF1A1A?style=flat-square&logo=postgresql&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Linux-FF1A1A?style=flat-square&logo=linux&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Flutter-FF1A1A?style=flat-square&logo=flutter&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Python-FF1A1A?style=flat-square&logo=python&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/-Java-FF1A1A?style=flat-square" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0891b2,50:e11d48,100:6d28d9" />
+</div>
 
-<!-- ===== GITHUB STATS ===== -->
-<h2 align="center">📊 &nbsp;PLAYER STATS&nbsp; 📊</h2>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Ballsy-Brit&theme=tokyonight&hide_border=true&ring=e11d48&fire=e11d48&currStreakLabel=a78bfa&background=0b0f1a00" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ballsy-Brit&theme=tokyonight" alt="Top Languages" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ballsy-Brit&theme=tokyonight" alt="Most Used Languages by Commits" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ballsy-Brit&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
-</p>
+<!-- ===== 04 PLAYER STATS ===== -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+04+%5D+PLAYER_STATS+%E2%96%88" alt="Player Stats" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6d28d9,50:e11d48,100:0891b2" />
+<br><br>
 
-<!-- ===== CONNECT ===== -->
-<h2 align="center">🌐 &nbsp;JOIN MY PARTY&nbsp; 🌐</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Ballsy-Brit&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,discussions_started&custom_title=PLAYER_STATS.EXE&rank_icon=github&bg_color=0D0D0D&border_color=FF1A1A&title_color=FF1A1A&text_color=FF1A1A&icon_color=FF1A1A&ring_color=FF1A1A&border_radius=0&hide_border=false&text_bold=false" alt="GitHub Stats" />
 
-<p align="center">
-  <a href="https://youtube.com/@ballsybrit?si=LxtKBfCM-CG8djGY" target="_blank"><img src="https://skillicons.dev/icons?i=youtube&theme=dark" height="44"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/md-tawhidul-hoque-8787b5201" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="44"/></a>
-  &nbsp;&nbsp;
-  <a href="https://ballsy-brit.itch.io/" target="_blank"><img src="https://static.itch.io/images/itchio-textless-white.svg" height="44"/></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/744272463847751743" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="44"/></a>
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-ballsybrit-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f172a" />
-  <a href="mailto:tawhidwasee2023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tawhidwasee2023@gmail.com-e11d48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
-  </a>
-</p>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ballsy-Brit&hide_border=false&border_radius=0&background=0D0D0D&border=FF1A1A&stroke=FF1A1A&ring=FF1A1A&fire=FF1A1A&currStreakNum=FF1A1A&sideNums=FF1A1A&currStreakLabel=FF1A1A&sideLabels=FF1A1A&dates=FF1A1A" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=15&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=%22One+more+bug+fix%22+usually+means+three+additional+hours+of+suffering." alt="Quote" />
-</p>
+<br><br>
 
-<!-- ===== ANIMATED FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b0f1a,35:6d28d9,70:e11d48,100:0b0f1a&section=footer&animation=twinkling" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ballsy-Brit&custom_title=CONTRIBUTION_LOG.DAT&bg_color=0D0D0D&color=FF1A1A&line=FF1A1A&point=FF1A1A&area=true&area_color=FF1A1A&hide_border=true&radius=0" alt="Contribution Graph" width="95%" />
+
+</div>
+
+<br>
+
+<!-- ===== 05 CONNECT ===== -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=100&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=44&repeat=false&lines=%5B+05+%5D+JOIN_MY_PARTY+%E2%96%88" alt="Connect" />
+
+<br><br>
+
+<a href="https://youtube.com/@ballsybrit?si=LxtKBfCM-CG8djGY" target="_blank">
+  <img src="https://img.shields.io/badge/-YOUTUBE-FF1A1A?style=for-the-badge&logo=youtube&logoColor=0D0D0D" />
+</a>
+<a href="https://www.linkedin.com/in/md-tawhidul-hoque-8787b5201" target="_blank">
+  <img src="https://img.shields.io/badge/-LINKEDIN-FF1A1A?style=for-the-badge" />
+</a>
+<a href="https://ballsy-brit.itch.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-ITCH.IO-FF1A1A?style=for-the-badge&logo=itchdotio&logoColor=0D0D0D" />
+</a>
+<a href="https://discord.com/users/744272463847751743" target="_blank">
+  <img src="https://img.shields.io/badge/-DISCORD%3A%20ballsybrit-FF1A1A?style=for-the-badge&logo=discord&logoColor=0D0D0D" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=4000&pause=1500&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=60&lines=%22One+more+bug+fix%22+usually+means;three+additional+hours+of+suffering." alt="Quote" />
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=90&text=INSERT%20COIN%20TO%20CONTINUE&fontColor=FF1A1A&fontSize=26&animation=blinking" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1A1A&height=4" />
+
+</div>
